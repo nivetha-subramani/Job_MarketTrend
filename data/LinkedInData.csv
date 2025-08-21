@@ -1,0 +1,142 @@
+
+Job Title,Company,Location,Salary,Posted Date
+Data Scientist,LinkedIn,Remote,120000,2025-08-01
+Business Analyst,LinkedIn,New York,95000,2025-07-15
+ML Engineer,LinkedIn,San Francisco,135000,2025-06-20
+Data Engineer,LinkedIn,Seattle,125000,2025-07-10
+Product Manager,LinkedIn,Chicago,130000,2025-06-30
+AI Researcher,LinkedIn,Boston,140000,2025-07-25
+Data Analyst,LinkedIn,Austin,90000,2025-08-05
+Business Intelligence,LinkedIn,Denver,105000,2025-07-18
+Machine Learning Intern,LinkedIn,Remote,60000,2025-06-15
+Data Architect,LinkedIn,San Diego,145000,2025-07-22
+Data Scientist,LinkedIn,Atlanta,118000,2025-08-02
+Business Analyst,LinkedIn,Miami,97000,2025-07-12
+ML Engineer,LinkedIn,Los Angeles,132000,2025-06-28
+Data Engineer,LinkedIn,Portland,123000,2025-07-08
+Product Manager,LinkedIn,San Jose,128000,2025-06-25
+AI Researcher,LinkedIn,Philadelphia,142000,2025-07-27
+Data Analyst,LinkedIn,Orlando,91000,2025-08-06
+Business Intelligence,LinkedIn,Charlotte,107000,2025-07-19
+Machine Learning Intern,LinkedIn,Remote,61000,2025-06-16
+Data Architect,LinkedIn,Las Vegas,146000,2025-07-23
+Data Scientist,LinkedIn,Detroit,119000,2025-08-03
+Business Analyst,LinkedIn,Houston,98000,2025-07-13
+ML Engineer,LinkedIn,Phoenix,133000,2025-06-29
+Data Engineer,LinkedIn,Columbus,124000,2025-07-09
+Product Manager,LinkedIn,Indianapolis,129000,2025-06-26
+AI Researcher,LinkedIn,San Antonio,143000,2025-07-28
+Data Analyst,LinkedIn,San Francisco,92000,2025-08-07
+Business Intelligence,LinkedIn,San Diego,108000,2025-07-20
+Machine Learning Intern,LinkedIn,Remote,62000,2025-06-17
+Data Architect,LinkedIn,San Jose,147000,2025-07-24
+Data Scientist,LinkedIn,Seattle,121000,2025-08-04
+Business Analyst,LinkedIn,Denver,99000,2025-07-14
+ML Engineer,LinkedIn,Chicago,134000,2025-06-30
+Data Engineer,LinkedIn,Miami,126000,2025-07-10
+Product Manager,LinkedIn,Orlando,130000,2025-06-27
+AI Researcher,LinkedIn,Charlotte,144000,2025-07-29
+Data Analyst,LinkedIn,Las Vegas,93000,2025-08-08
+Business Intelligence,LinkedIn,Detroit,109000,2025-07-21
+Machine Learning Intern,LinkedIn,Remote,63000,2025-06-18
+Data Architect,LinkedIn,Houston,148000,2025-07-25
+Data Scientist,LinkedIn,Phoenix,122000,2025-08-05
+Business Analyst,LinkedIn,Columbus,100000,2025-07-15
+ML Engineer,LinkedIn,Indianapolis,135000,2025-07-01
+Data Engineer,LinkedIn,San Antonio,127000,2025-07-11
+Product Manager,LinkedIn,San Francisco,131000,2025-06-28
+AI Researcher,LinkedIn,San Diego,145000,2025-07-30
+Data Analyst,LinkedIn,San Jose,94000,2025-08-09
+Business Intelligence,LinkedIn,Seattle,110000,2025-07-22
+Machine Learning Intern,LinkedIn,Remote,64000,2025-06-19
+Data Architect,LinkedIn,Denver,149000,2025-07-26
+Data Scientist,LinkedIn,Chicago,123000,2025-08-06
+Business Analyst,LinkedIn,Miami,101000,2025-07-16
+ML Engineer,LinkedIn,Orlando,136000,2025-07-02
+Data Engineer,LinkedIn,Charlotte,128000,2025-07-12
+Product Manager,LinkedIn,Las Vegas,132000,2025-06-29
+AI Researcher,LinkedIn,Detroit,146000,2025-07-31
+Data Analyst,LinkedIn,Houston,95000,2025-08-10
+Business Intelligence,LinkedIn,Phoenix,111000,2025-07-23
+Machine Learning Intern,LinkedIn,Remote,65000,2025-06-20
+Data Architect,LinkedIn,Columbus,150000,2025-07-27
+Data Scientist,LinkedIn,Indianapolis,124000,2025-08-07
+Business Analyst,LinkedIn,San Antonio,102000,2025-07-17
+ML Engineer,LinkedIn,San Francisco,137000,2025-07-03
+Data Engineer,LinkedIn,San Diego,129000,2025-07-13
+Product Manager,LinkedIn,San Jose,133000,2025-06-30
+AI Researcher,LinkedIn,Seattle,147000,2025-08-01
+Data Analyst,LinkedIn,Denver,96000,2025-08-11
+Business Intelligence,LinkedIn,Chicago,112000,2025-07-24
+Machine Learning Intern,LinkedIn,Remote,66000,2025-06-21
+Data Architect,LinkedIn,Miami,151000,2025-07-28
+Data Scientist,LinkedIn,Orlando,125000,2025-08-08
+Business Analyst,LinkedIn,Charlotte,103000,2025-07-18
+ML Engineer,LinkedIn,Las Vegas,138000,2025-07-04
+Data Engineer,LinkedIn,Detroit,130000,2025-07-14
+Product Manager,LinkedIn,Houston,134000,2025-07-01
+AI Researcher,LinkedIn,Phoenix,148000,2025-08-02
+Data Analyst,LinkedIn,Columbus,97000,2025-08-12
+Business Intelligence,LinkedIn,Indianapolis,113000,2025-07-25
+Machine Learning Intern,LinkedIn,Remote,67000,2025-06-22
+Data Architect,LinkedIn,San Antonio,152000,2025-07-29
+Data Scientist,LinkedIn,San Francisco,126000,2025-08-09
+Business Analyst,LinkedIn,San Diego,104000,2025-07-19
+ML Engineer,LinkedIn,San Jose,139000,2025-07-05
+Data Engineer,LinkedIn,Seattle,131000,2025-07-15
+Product Manager,LinkedIn,Denver,135000,2025-07-02
+AI Researcher,LinkedIn,Chicago,149000,2025-08-03
+Data Analyst,LinkedIn,Miami,98000,2025-08-13
+Business Intelligence,LinkedIn,Orlando,114000,2025-07-26
+Machine Learning Intern,LinkedIn,Remote,68000,2025-06-23
+Data Architect,LinkedIn,Charlotte,153000,2025-07-30
+Data Scientist,LinkedIn,Las Vegas,127000,2025-08-10
+Business Analyst,LinkedIn,Detroit,105000,2025-07-20
+ML Engineer,LinkedIn,Houston,140000,2025-07-06
+Data Engineer,LinkedIn,Phoenix,132000,2025-07-16
+Product Manager,LinkedIn,Columbus,136000,2025-07-03
+AI Researcher,LinkedIn,Indianapolis,150000,2025-08-04
+Data Analyst,LinkedIn,San Antonio,99000,2025-08-14
+Business Intelligence,LinkedIn,San Francisco,115000,2025-07-27
+Machine Learning Intern,LinkedIn,Remote,69000,2025-06-24
+Data Architect,LinkedIn,San Diego,154000,2025-07-31
+Data Scientist,LinkedIn,San Jose,128000,2025-08-11
+Business Analyst,LinkedIn,Seattle,106000,2025-07-21
+ML Engineer,LinkedIn,Denver,141000,2025-07-07
+Data Engineer,LinkedIn,Chicago,133000,2025-07-17
+Product Manager,LinkedIn,Miami,137000,2025-07-04
+AI Researcher,LinkedIn,Orlando,151000,2025-08-05
+Data Analyst,LinkedIn,Charlotte,100000,2025-08-15
+Business Intelligence,LinkedIn,Las Vegas,116000,2025-07-28
+Machine Learning Intern,LinkedIn,Remote,70000,2025-06-25
+Data Architect,LinkedIn,Detroit,155000,2025-08-01
+Data Scientist,LinkedIn,Houston,129000,2025-08-12
+Business Analyst,LinkedIn,Phoenix,107000,2025-07-22
+ML Engineer,LinkedIn,Columbus,142000,2025-07-08
+Data Engineer,LinkedIn,Indianapolis,134000,2025-07-18
+Product Manager,LinkedIn,San Antonio,138000,2025-07-05
+AI Researcher,LinkedIn,San Francisco,152000,2025-08-06
+Data Analyst,LinkedIn,San Diego,101000,2025-08-16
+Business Intelligence,LinkedIn,San Jose,117000,2025-07-29
+Machine Learning Intern,LinkedIn,Remote,71000,2025-06-26
+Data Architect,LinkedIn,Seattle,156000,2025-08-02
+Data Scientist,LinkedIn,Denver,130000,2025-08-13
+Business Analyst,LinkedIn,Chicago,108000,2025-07-23
+ML Engineer,LinkedIn,Miami,143000,2025-07-09
+Data Engineer,LinkedIn,Orlando,135000,2025-07-19
+Product Manager,LinkedIn,Charlotte,139000,2025-07-06
+AI Researcher,LinkedIn,Las Vegas,153000,2025-08-07
+Data Analyst,LinkedIn,Detroit,102000,2025-08-17
+Business Intelligence,LinkedIn,Houston,118000,2025-07-30
+Machine Learning Intern,LinkedIn,Remote,72000,2025-06-27
+Data Architect,LinkedIn,Phoenix,157000,2025-08-03
+Data Scientist,LinkedIn,Columbus,131000,2025-08-14
+Business Analyst,LinkedIn,Indianapolis,109000,2025-07-24
+ML Engineer,LinkedIn,San Antonio,144000,2025-07-10
+Data Engineer,LinkedIn,San Francisco,136000,2025-07-20
+Product Manager,LinkedIn,San Diego,140000,2025-07-07
+AI Researcher,LinkedIn,San Jose,154000,2025-08-08
+Data Analyst,LinkedIn,Seattle,103000,2025-08-18
+Business Intelligence,LinkedIn,Denver,119000,2025-07-31
+Machine Learning Intern,LinkedIn,Remote,73000,2025-06-28
+Data Architect,LinkedIn,Chicago,158000,2025-08-04
